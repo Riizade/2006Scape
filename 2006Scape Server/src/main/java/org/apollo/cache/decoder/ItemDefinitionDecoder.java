@@ -5,7 +5,12 @@ import java.io.UncheckedIOException;
 import java.lang.reflect.Type;
 import java.nio.ByteBuffer;
 import java.nio.file.Files;
+import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 import com.google.gson.*;
 import org.apollo.cache.IndexedFileSystem;
@@ -38,6 +43,29 @@ public final class ItemDefinitionDecoder implements Runnable {
 
 	@Override
 	public void run() {
+		loadDefinitionsFromJSON();
+	}
+
+	private void loadDefinitionsFromJSON() {
+		try (Stream<Path> paths = Files.list(Paths.get("./data/item_definitions"))) {
+			List<Path> paths_list = paths.filter(path -> path.getFileName().toString().endsWith(".json")).collect(Collectors.toList());
+			ItemDefinition[] definitions = new ItemDefinition[paths_list.size()];
+			for (Path path : paths_list) {
+				String jsonString = Files.readString(path);
+				Gson gson = new Gson();
+				ItemDefinition itemDefinition = gson.fromJson(jsonString, ItemDefinition.class);
+				int index = itemDefinition.getId();
+				definitions[index] = itemDefinition;
+			}
+			ItemDefinition.init(definitions);
+		} catch (IOException e) {
+			System.out.println("could not load item definitions from JSON");
+			exit(1);
+		}
+
+	}
+
+	private void loadDefinitionsFromDat() {
 		try {
 			Archive config = fs.getArchive(0, 2);
 			ByteBuffer data = config.getEntry("obj.dat").getBuffer();
