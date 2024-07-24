@@ -3,11 +3,17 @@ use std::path::Path;
 use anyhow::Result;
 use serde::{Deserialize, Serialize};
 
-/// a struct only intended to read certain fields, do not write using this struct
-#[derive(Serialize, Deserialize, Clone, Debug)]
+#[derive(Serialize, Deserialize, Clone, Debug, Hash, PartialEq, Eq)]
 pub struct ItemDefinition {
-    pub name: String,
-    pub id: u32,
+    pub id: i32,
+    pub name: Option<String>,
+    pub description: Option<String>,
+    pub ground_actions: Option<[String; 5]>,
+    pub inventory_actions: Option<[String; 5]>,
+    pub members: bool,
+    pub note_graphic_id: Option<i32>,
+    pub note_info_id: Option<i32>,
+    pub team: i32,
     pub stackable: bool,
     pub value: i32,
 }

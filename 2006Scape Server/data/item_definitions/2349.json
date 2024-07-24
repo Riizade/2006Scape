@@ -19,7 +19,7 @@
   "name": "Bronze bar",
   "noteGraphicId": -1,
   "noteInfoId": -1,
-  "stackable": false,
+  "stackable": true,
   "team": 0,
   "value": 8
 }

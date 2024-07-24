@@ -13,7 +13,7 @@ fn search(dir: &Path, expression: &str) -> Result<Vec<ItemDefinition>> {
 
     let result = all_items
         .par_iter()
-        .filter(|item| regex.is_match(&item.name))
+        .filter(|item| regex.is_match(&item.name.as_deref().unwrap_or("")))
         .map(|item| item.clone())
         .collect();
 
