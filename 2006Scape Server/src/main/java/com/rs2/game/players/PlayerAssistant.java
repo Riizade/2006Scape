@@ -2000,7 +2000,7 @@ public class PlayerAssistant {
 		int points = 0, output = 0;
 		for (int lvl = 1; lvl <= 99; lvl++) {
 			xp_per_level[lvl] = output;
-			points += Math.floor(lvl + 300 * Math.pow(2, lvl / 7.0));
+			points += Math.floor(lvl + 300 * Math.pow(2, lvl / 10.0));
 			output = (int) Math.floor(points / 4);
 		}
 	}
