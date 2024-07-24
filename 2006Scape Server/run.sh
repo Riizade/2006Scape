@@ -1,0 +1,1 @@
+java -jar Server.jar -c ServerConfig.json -gui
