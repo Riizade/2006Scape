@@ -288,7 +288,7 @@ public final class ItemDefinition {
 	 * @return {@code true} if so, {@code false} if not.
 	 */
 	public boolean isStackable() {
-		return stackable;
+		return true;
 	}
 
 	/**
