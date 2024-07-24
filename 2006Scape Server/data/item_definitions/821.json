@@ -1,0 +1,25 @@
+{
+  "description": "A deadly looking dart tip made of steel - needs feathers for flight.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 821,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Steel dart tip",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": true,
+  "team": 0,
+  "value": 5
+}

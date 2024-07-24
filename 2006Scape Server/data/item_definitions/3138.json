@@ -1,0 +1,25 @@
+{
+  "description": "How am I supposed to eat that?!",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 3138,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Potato cactus",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

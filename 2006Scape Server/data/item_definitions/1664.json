@@ -1,0 +1,25 @@
+{
+  "description": "I wonder if this is valuable.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 1664,
+  "inventoryActions": [
+    null,
+    "Wear",
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Dragon necklace",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 18375
+}

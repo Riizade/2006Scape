@@ -1,0 +1,25 @@
+{
+  "description": "A composite ogre bow.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 4827,
+  "inventoryActions": [
+    null,
+    "Wield",
+    "Check kills",
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Comp ogre bow",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 180
+}

@@ -1,0 +1,25 @@
+{
+  "description": "Ooohhh look at the pretty colours...",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 4315,
+  "inventoryActions": [
+    null,
+    "Wear",
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Team-1 cape",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 1,
+  "value": 50
+}

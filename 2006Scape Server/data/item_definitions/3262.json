@@ -1,0 +1,25 @@
+{
+  "description": "It\u0027s tough and spiky.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 3262,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Troll thistle",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

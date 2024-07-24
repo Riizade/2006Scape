@@ -1,0 +1,25 @@
+{
+  "description": "I should try cooking this.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 341,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Raw cod",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 25
+}

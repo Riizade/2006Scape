@@ -1,0 +1,25 @@
+{
+  "description": "A note found in the Mayor\u0027s bedroom mentioning the word \u0027Fibonacci\u0027.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 4597,
+  "inventoryActions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Note",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

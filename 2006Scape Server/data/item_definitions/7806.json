@@ -1,0 +1,25 @@
+{
+  "description": "A heavy duty sword.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 7806,
+  "inventoryActions": [
+    null,
+    "Wield",
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Anger sword",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 26
+}

@@ -1,0 +1,25 @@
+{
+  "description": "A fragment of the Fitzharmon family crest.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 780,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Crest part",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

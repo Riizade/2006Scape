@@ -1,0 +1,25 @@
+{
+  "description": "A large metal shield.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 1199,
+  "inventoryActions": [
+    null,
+    "Wear",
+    null,
+    null,
+    null
+  ],
+  "members": false,
+  "name": "Adamant kiteshield",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 5440
+}

@@ -1,0 +1,25 @@
+{
+  "description": "It seems to be humming...",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 3062,
+  "inventoryActions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": false,
+  "name": "Strange box",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": true,
+  "team": 0,
+  "value": 1
+}

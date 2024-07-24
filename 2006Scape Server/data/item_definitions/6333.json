@@ -1,0 +1,25 @@
+{
+  "description": "Some rare teak logs.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    "Light",
+    null
+  ],
+  "id": 6333,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Teak logs",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

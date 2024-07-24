@@ -1,0 +1,25 @@
+{
+  "description": "The guard wrote the IOU on the back of some paper.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 3103,
+  "inventoryActions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Iou",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

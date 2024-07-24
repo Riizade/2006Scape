@@ -1,0 +1,25 @@
+{
+  "description": "Deliciously cooked oomlie meat in a palm leaf pouch.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 2343,
+  "inventoryActions": [
+    "Eat",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Cooked oomlie wrap",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 35
+}

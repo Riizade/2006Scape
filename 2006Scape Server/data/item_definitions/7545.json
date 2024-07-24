@@ -1,0 +1,25 @@
+{
+  "description": "Guiding milk.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 7545,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    null,
+    "Destroy"
+  ],
+  "members": true,
+  "name": "Enchanted milk",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 6
+}

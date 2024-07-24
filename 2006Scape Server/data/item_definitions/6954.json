@@ -1,0 +1,25 @@
+{
+  "description": "Redberry Juice sloshes around in this vial waiting for white berries to be added.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 6954,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    null,
+    "Destroy"
+  ],
+  "members": true,
+  "name": "Redberry juice",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

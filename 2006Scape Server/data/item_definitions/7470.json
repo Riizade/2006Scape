@@ -1,0 +1,25 @@
+{
+  "description": "A mixture of milk, cream and cornflour.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 7470,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    "Empty",
+    "Destroy"
+  ],
+  "members": true,
+  "name": "Cornflour mixture",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

@@ -1,0 +1,25 @@
+{
+  "description": "A book to translate the ancient gnome language into English.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 784,
+  "inventoryActions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Translation book",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 2
+}

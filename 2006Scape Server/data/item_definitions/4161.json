@@ -1,0 +1,25 @@
+{
+  "description": "A bag of salt.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 4161,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Bag of salt",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": true,
+  "team": 0,
+  "value": 10
+}

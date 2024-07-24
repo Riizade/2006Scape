@@ -1,0 +1,25 @@
+{
+  "description": "An old stone slab with writing on it.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 699,
+  "inventoryActions": [
+    null,
+    "Read",
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Stone tablet",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

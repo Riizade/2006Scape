@@ -1,0 +1,25 @@
+{
+  "description": "A severed hand covered with sand.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 6945,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    null,
+    "Destroy"
+  ],
+  "members": true,
+  "name": "Sandy hand",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

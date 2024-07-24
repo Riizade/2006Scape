@@ -1,0 +1,25 @@
+{
+  "description": "Super-good for the smallest or largest of plants.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 6034,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    "Empty",
+    null
+  ],
+  "members": true,
+  "name": "Super compost",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 85
+}

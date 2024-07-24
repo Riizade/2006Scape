@@ -1,0 +1,25 @@
+{
+  "description": "Nice bit of crafting!",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 7765,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    null,
+    "Release"
+  ],
+  "members": true,
+  "name": "Toy doll (wound)",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 10
+}

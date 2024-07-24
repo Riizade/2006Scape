@@ -1,0 +1,25 @@
+{
+  "description": "A woolly jester scarf.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 6861,
+  "inventoryActions": [
+    null,
+    "Wear",
+    null,
+    null,
+    "Destroy"
+  ],
+  "members": false,
+  "name": "Tri-jester scarf",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

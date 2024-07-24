@@ -1,0 +1,25 @@
+{
+  "description": "This gnome bowl is in the early stages of preparation.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 2177,
+  "inventoryActions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Half baked bowl",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 2
+}

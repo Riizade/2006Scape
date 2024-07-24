@@ -1,0 +1,25 @@
+{
+  "description": "This scroll glows with an inner light.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 6949,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    null,
+    "Destroy"
+  ],
+  "members": true,
+  "name": "A magic scroll",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

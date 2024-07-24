@@ -1,0 +1,25 @@
+{
+  "description": "A cape from the almighty god Zamorak.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 2414,
+  "inventoryActions": [
+    null,
+    "Wear",
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Zamorak cape",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 100
+}

@@ -1,0 +1,25 @@
+{
+  "description": "Kills people.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 6205,
+  "inventoryActions": [
+    "Wear",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": false,
+  "name": "9mm revolver",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

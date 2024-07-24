@@ -1,0 +1,25 @@
+{
+  "description": "Not as good as a pet frog.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 3899,
+  "inventoryActions": [
+    null,
+    "Wield",
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Iron sickle",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 15
+}

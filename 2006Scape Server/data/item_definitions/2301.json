@@ -1,0 +1,25 @@
+{
+  "description": "A tropicana pizza.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 2301,
+  "inventoryActions": [
+    "Eat",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Pineapple pizza",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 100
+}

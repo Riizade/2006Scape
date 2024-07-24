@@ -1,0 +1,25 @@
+{
+  "description": "These would feed a dogfish for months!",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 6729,
+  "inventoryActions": [
+    "Bury",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Dagannoth bones",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

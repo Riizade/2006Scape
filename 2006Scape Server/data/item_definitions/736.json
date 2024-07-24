@@ -1,0 +1,25 @@
+{
+  "description": "These are germinated and ready to be planted in fertile soil.",
+  "groundActions": [
+    "Look",
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 736,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Yommi tree seeds",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": true,
+  "team": 0,
+  "value": 1
+}

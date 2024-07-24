@@ -1,0 +1,25 @@
+{
+  "description": "Contains the Fairy Queen\u0027s magic essence.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 7410,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    null,
+    "Destroy"
+  ],
+  "members": true,
+  "name": "Queen\u0027s secateurs",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

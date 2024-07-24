@@ -1,0 +1,25 @@
+{
+  "description": "\u0027A Tourists Guide To Ardougne\u0027.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 1856,
+  "inventoryActions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Guide book",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

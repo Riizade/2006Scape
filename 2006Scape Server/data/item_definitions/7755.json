@@ -1,0 +1,23 @@
+{
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 7755,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": false,
+  "noteGraphicId": 799,
+  "noteInfoId": 7754,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

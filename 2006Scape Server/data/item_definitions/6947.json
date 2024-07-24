@@ -1,0 +1,25 @@
+{
+  "description": "A copy of a work rota.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 6947,
+  "inventoryActions": [
+    "Read",
+    null,
+    null,
+    null,
+    "Destroy"
+  ],
+  "members": true,
+  "name": "Bert\u0027s rota",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

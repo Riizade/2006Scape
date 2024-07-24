@@ -1,0 +1,25 @@
+{
+  "description": "A vial of extra-strength weapon poison, for spears and daggers.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 5937,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    "Empty",
+    null
+  ],
+  "members": true,
+  "name": "Weapon poison(+)",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 14
+}

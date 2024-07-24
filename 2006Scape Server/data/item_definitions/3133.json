@@ -1,0 +1,25 @@
+{
+  "description": "Jogre Bones marinated in Karambwanji sauce. Not quite right.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 3133,
+  "inventoryActions": [
+    "Bury",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Marinated j\u0027 bones",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

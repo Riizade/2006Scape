@@ -1,0 +1,25 @@
+{
+  "description": "A deadly looking dart tip made of mithril - needs feathers for flight.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 822,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Mithril dart tip",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": true,
+  "team": 0,
+  "value": 12
+}

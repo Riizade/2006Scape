@@ -1,0 +1,25 @@
+{
+  "description": "Not likely to last until next Halloween.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 4561,
+  "inventoryActions": [
+    "Eat",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": false,
+  "name": "Purple sweets",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 0
+}

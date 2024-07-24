@@ -1,0 +1,25 @@
+{
+  "description": "Pocketsized so it\u0027s handy when you\u0027re roving in the woods!",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 4182,
+  "inventoryActions": [
+    "Wear",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": false,
+  "name": "Elven sheep",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

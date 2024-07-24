@@ -1,0 +1,25 @@
+{
+  "description": "1 dose of sacred Oil.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 3436,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    "Empty",
+    null
+  ],
+  "members": true,
+  "name": "Sacred oil(1)",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 60
+}

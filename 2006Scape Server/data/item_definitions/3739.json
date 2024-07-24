@@ -1,0 +1,25 @@
+{
+  "description": "The lid is screwed on tightly. It is very cold.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 3739,
+  "inventoryActions": [
+    "Remove-lid",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Sealed vase",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

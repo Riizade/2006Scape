@@ -1,0 +1,25 @@
+{
+  "description": "It\u0027s a slightly magical stick.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 1379,
+  "inventoryActions": [
+    null,
+    "Wield",
+    null,
+    null,
+    null
+  ],
+  "members": false,
+  "name": "Staff",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 15
+}

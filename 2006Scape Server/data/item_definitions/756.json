@@ -1,0 +1,25 @@
+{
+  "description": "I\u0027m meant to give this to Juliet.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 756,
+  "inventoryActions": [
+    "Look-at",
+    "Drink",
+    null,
+    null,
+    null
+  ],
+  "members": false,
+  "name": "Cadava potion",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

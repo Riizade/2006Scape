@@ -1,0 +1,25 @@
+{
+  "description": "A medium square shield.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 1175,
+  "inventoryActions": [
+    null,
+    "Wield",
+    null,
+    null,
+    null
+  ],
+  "members": false,
+  "name": "Iron sq shield",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 168
+}

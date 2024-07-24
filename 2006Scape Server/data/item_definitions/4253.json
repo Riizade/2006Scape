@@ -1,0 +1,25 @@
+{
+  "description": "A small wooden ship.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 4253,
+  "inventoryActions": [
+    "Repair",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Model ship",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

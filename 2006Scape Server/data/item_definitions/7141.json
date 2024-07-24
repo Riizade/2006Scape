@@ -1,0 +1,25 @@
+{
+  "description": "I hope he doesn\u0027t want it back.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 7141,
+  "inventoryActions": [
+    null,
+    "Wield",
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Harry\u0027s cutlass",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1040
+}

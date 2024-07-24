@@ -1,0 +1,25 @@
+{
+  "description": "A \u0027Seaweed in Monkey Skin\u0027 sandwich. Perfect for statue repair.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 3168,
+  "inventoryActions": [
+    "Eat",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Seaweed sandwich",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

@@ -1,0 +1,25 @@
+{
+  "description": "Clothes for the sculptor\u0027s model.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 5067,
+  "inventoryActions": [
+    "Wear",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Exquisite clothes",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

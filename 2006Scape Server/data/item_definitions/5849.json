@@ -1,0 +1,25 @@
+{
+  "description": "This keg contains 4 pints of Cider.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 5849,
+  "inventoryActions": [
+    "Drink",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Cider(4)",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

@@ -1,0 +1,25 @@
+{
+  "description": "This cocktail is just missing those little finishing touches.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 2070,
+  "inventoryActions": [
+    "Drink",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Unfinished cocktail",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 2
+}

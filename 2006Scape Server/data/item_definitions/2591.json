@@ -1,0 +1,25 @@
+{
+  "description": "Black platebody with gold trim.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 2591,
+  "inventoryActions": [
+    null,
+    "Wear",
+    null,
+    null,
+    null
+  ],
+  "members": false,
+  "name": "Black platebody (g)",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 3840
+}

@@ -1,0 +1,25 @@
+{
+  "description": "Stylish leg armour for rangers with a lingering smell of raw fish...",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 6135,
+  "inventoryActions": [
+    null,
+    "Wear",
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Spined chaps",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 3900
+}

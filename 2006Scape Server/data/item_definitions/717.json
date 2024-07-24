@@ -1,0 +1,25 @@
+{
+  "description": "A scrawled note with spidery writing on it.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 717,
+  "inventoryActions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Scrawled note",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

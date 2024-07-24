@@ -1,0 +1,25 @@
+{
+  "description": "It actually smells quite good.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 2191,
+  "inventoryActions": [
+    "Eat",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Worm hole",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 2
+}

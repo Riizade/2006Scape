@@ -1,0 +1,25 @@
+{
+  "description": "A nicely roasted spider threaded onto an arrow shaft.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 6299,
+  "inventoryActions": [
+    "Eat",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Spider on shaft",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 40
+}

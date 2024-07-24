@@ -1,0 +1,25 @@
+{
+  "description": "A woolly bobble hat.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 6856,
+  "inventoryActions": [
+    null,
+    "Wear",
+    null,
+    null,
+    "Destroy"
+  ],
+  "members": false,
+  "name": "Bobble hat",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

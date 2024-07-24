@@ -1,0 +1,25 @@
+{
+  "description": "Some rare mahogany logs.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    "Light",
+    null
+  ],
+  "id": 6332,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Mahogany logs",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 50
+}

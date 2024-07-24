@@ -1,0 +1,25 @@
+{
+  "description": "It\u0027s a bowl of hot water.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 4456,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    "Empty",
+    null
+  ],
+  "members": true,
+  "name": "Bowl of hot water",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 10
+}

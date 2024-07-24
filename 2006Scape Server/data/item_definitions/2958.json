@@ -1,0 +1,25 @@
+{
+  "description": "A druid pouch.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 2958,
+  "inventoryActions": [
+    "Fill",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Druid pouch",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": true,
+  "team": 0,
+  "value": 5
+}

@@ -1,0 +1,25 @@
+{
+  "description": "There appears to be a coin in the bottom. Liked by dwarves.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 7508,
+  "inventoryActions": [
+    "Drink",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Asgarnian ale (g)",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 2
+}

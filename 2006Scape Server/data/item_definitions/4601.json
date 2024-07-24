@@ -1,0 +1,25 @@
+{
+  "description": "Dung of the Camelus Horribleus variety.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 4601,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    "Empty",
+    null
+  ],
+  "members": true,
+  "name": "Ugthanki dung",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

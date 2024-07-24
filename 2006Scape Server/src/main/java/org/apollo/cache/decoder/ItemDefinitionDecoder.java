@@ -2,12 +2,18 @@ package org.apollo.cache.decoder;
 
 import java.io.IOException;
 import java.io.UncheckedIOException;
+import java.lang.reflect.Type;
 import java.nio.ByteBuffer;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 
+import com.google.gson.*;
 import org.apollo.cache.IndexedFileSystem;
 import org.apollo.cache.archive.Archive;
 import org.apollo.cache.def.ItemDefinition;
 import org.apollo.util.BufferUtil;
+
+import static java.lang.System.exit;
 
 /**
  * Decodes item data from the {@code obj.dat} file into {@link ItemDefinition}s.
@@ -53,6 +59,18 @@ public final class ItemDefinitionDecoder implements Runnable {
 			ItemDefinition.init(definitions);
 		} catch (IOException e) {
 			throw new UncheckedIOException("Error decoding ItemDefinitions.", e);
+		}
+	}
+
+	private void writeDefinition(ItemDefinition itemDefinition) {
+		Gson gson = new GsonBuilder().setPrettyPrinting().create();
+		String jsonString = gson.toJson(itemDefinition);
+		try {
+			Files.createDirectories(Paths.get("item_definitions"));
+			Files.write(Paths.get("item_definitions/" + itemDefinition.getId() + ".json"), jsonString.getBytes());
+		} catch (IOException e) {
+			System.out.println("could not write item definition");
+			exit(1);
 		}
 	}
 

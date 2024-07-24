@@ -1,0 +1,25 @@
+{
+  "description": "2 doses of stat restoration potion.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 129,
+  "inventoryActions": [
+    "Drink",
+    null,
+    null,
+    "Empty",
+    null
+  ],
+  "members": true,
+  "name": "Restore potion(2)",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 66
+}

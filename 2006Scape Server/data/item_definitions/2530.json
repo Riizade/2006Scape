@@ -1,0 +1,25 @@
+{
+  "description": "Bones are for burying!",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 2530,
+  "inventoryActions": [
+    "Bury",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": false,
+  "name": "Bones",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

@@ -1,0 +1,25 @@
+{
+  "description": "4 doses of Relicym\u0027s balm, which helps cure disease.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 4842,
+  "inventoryActions": [
+    "Drink",
+    null,
+    null,
+    "Empty",
+    null
+  ],
+  "members": true,
+  "name": "Relicym\u0027s balm(4)",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 225
+}

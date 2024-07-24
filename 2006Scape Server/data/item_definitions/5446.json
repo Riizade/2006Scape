@@ -1,0 +1,25 @@
+{
+  "description": "There are 4 onions in this sack.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 5446,
+  "inventoryActions": [
+    "Fill",
+    "Remove-one",
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Onions(4)",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

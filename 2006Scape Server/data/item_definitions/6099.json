@@ -1,0 +1,25 @@
+{
+  "description": "A tiny crystal enchanted to return the user to Lletya.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 6099,
+  "inventoryActions": [
+    "Activate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Teleport crystal (4)",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 50
+}

@@ -1,0 +1,25 @@
+{
+  "description": "A fishless fishbowl with some seaweed.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 6669,
+  "inventoryActions": [
+    null,
+    null,
+    "Empty",
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Fishbowl",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 0
+}

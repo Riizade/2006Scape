@@ -1,0 +1,25 @@
+{
+  "description": "A bowl of burnt, overcooked egg.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 7090,
+  "inventoryActions": [
+    "Empty",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Burnt egg",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 5
+}

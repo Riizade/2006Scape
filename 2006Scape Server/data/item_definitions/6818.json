@@ -1,0 +1,25 @@
+{
+  "description": "A sharp sword that can also fire arrows.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 6818,
+  "inventoryActions": [
+    null,
+    "Wield",
+    null,
+    null,
+    "Destroy"
+  ],
+  "members": true,
+  "name": "Bow-sword",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

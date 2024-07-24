@@ -1,0 +1,25 @@
+{
+  "description": "I can escape the Maze with this!",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 5561,
+  "inventoryActions": [
+    "Activate",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Mystic jewel",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

@@ -1,0 +1,25 @@
+{
+  "description": "The remains of Zadimus.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 610,
+  "inventoryActions": [
+    "Bury",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Zadimus corpse",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

@@ -1,0 +1,25 @@
+{
+  "description": "It\u0027s an unstrung Amulet of Monkey Speak. It makes vague chattering noises.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 4022,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "M\u0027speak amulet",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 500
+}

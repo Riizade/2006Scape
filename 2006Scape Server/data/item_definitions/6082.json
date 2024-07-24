@@ -1,0 +1,25 @@
+{
+  "description": "A device for firing dye.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 6082,
+  "inventoryActions": [
+    "Empty",
+    "Wield",
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Fixed device",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 150
+}

@@ -1,0 +1,25 @@
+{
+  "description": "Jogre bones smothered with raw Karambwanji paste.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 3131,
+  "inventoryActions": [
+    "Bury",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Pasty jogre bones",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

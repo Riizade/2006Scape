@@ -1,0 +1,25 @@
+{
+  "description": "An unusually shaped vase full of ice. You can see something glinting inside.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 3736,
+  "inventoryActions": [
+    "Shake",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Frozen vase",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

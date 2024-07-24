@@ -1,0 +1,25 @@
+{
+  "description": "It makes a loud but interesting sound when swung in the air.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 716,
+  "inventoryActions": [
+    "Swing",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Bull roarer",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

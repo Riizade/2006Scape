@@ -1,0 +1,25 @@
+{
+  "description": "Has a lid shaped like a bug. Disgusting! I think there\u0027s a stomach inside.",
+  "groundActions": [
+    null,
+    null,
+    "Take",
+    null,
+    null
+  ],
+  "id": 4680,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Canopic jar",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

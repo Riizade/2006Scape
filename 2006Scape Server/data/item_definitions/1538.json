@@ -1,0 +1,25 @@
+{
+  "description": "A map of the route to Crandor.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 1538,
+  "inventoryActions": [
+    "Study",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": false,
+  "name": "Crandor map",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

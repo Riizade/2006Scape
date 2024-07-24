@@ -1,0 +1,25 @@
+{
+  "description": "It\u0027s a bucket of milk and cream.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 7471,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    "Empty",
+    "Destroy"
+  ],
+  "members": true,
+  "name": "Milky mixture",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

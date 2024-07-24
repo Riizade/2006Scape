@@ -1,0 +1,25 @@
+{
+  "description": "A mirror helps reflect light on the subject.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 6547,
+  "inventoryActions": [
+    null,
+    "Wear",
+    null,
+    null,
+    "Destroy"
+  ],
+  "members": true,
+  "name": "Doctors hat",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

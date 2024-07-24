@@ -1,0 +1,25 @@
+{
+  "description": "A cool refreshing fruit mix.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 2084,
+  "inventoryActions": [
+    "Drink",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Fruit blast",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 30
+}

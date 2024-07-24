@@ -1,0 +1,25 @@
+{
+  "description": "Some milky nettle tea in a porcelain cup.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 4246,
+  "inventoryActions": [
+    null,
+    "Drink",
+    "Empty",
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Cup of tea",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 10
+}

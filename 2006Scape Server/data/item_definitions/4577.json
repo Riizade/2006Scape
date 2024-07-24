@@ -1,0 +1,25 @@
+{
+  "description": "Transparent overlays - details of something?",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 4577,
+  "inventoryActions": [
+    "Assemble",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Schematics",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

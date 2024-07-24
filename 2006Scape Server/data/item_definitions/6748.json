@@ -1,0 +1,25 @@
+{
+  "description": "A sigil used for the summoning of the demon Agrith-Naar.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 6748,
+  "inventoryActions": [
+    "Chant",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Demonic sigil",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 0
+}

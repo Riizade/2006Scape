@@ -1,0 +1,25 @@
+{
+  "description": "An enchanted necklace.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 3859,
+  "inventoryActions": [
+    null,
+    "Wear",
+    null,
+    "Rub",
+    null
+  ],
+  "members": true,
+  "name": "Games necklace(5)",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1050
+}

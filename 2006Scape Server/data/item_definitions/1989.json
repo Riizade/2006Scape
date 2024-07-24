@@ -1,0 +1,25 @@
+{
+  "description": "An optimist would say it\u0027s half full.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 1989,
+  "inventoryActions": [
+    "Drink",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": false,
+  "name": "Half full wine jug",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

@@ -1,0 +1,25 @@
+{
+  "description": "The lowest maintenance pet you will ever have.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 3695,
+  "inventoryActions": [
+    "Feed",
+    "Stroke",
+    "Talk-to",
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Pet rock",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

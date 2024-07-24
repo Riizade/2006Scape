@@ -1,0 +1,25 @@
+{
+  "description": "\u0027\u0027Managing Thine Kingdom for Noobes\u0027\u0027 by A. Ghrim.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 3901,
+  "inventoryActions": [
+    "Read",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Ghrim\u0027s book",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

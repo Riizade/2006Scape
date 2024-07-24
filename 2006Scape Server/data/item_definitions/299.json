@@ -1,0 +1,25 @@
+{
+  "description": "Magical seeds in a mithril case.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 299,
+  "inventoryActions": [
+    "Plant",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Mithril seeds",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": true,
+  "team": 0,
+  "value": 200
+}

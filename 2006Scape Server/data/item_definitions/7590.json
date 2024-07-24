@@ -1,0 +1,25 @@
+{
+  "description": "Filled with items. Like a bank, but spookier!",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 7590,
+  "inventoryActions": [
+    "Check",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": false,
+  "name": "Coffin",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

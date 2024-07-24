@@ -1,0 +1,25 @@
+{
+  "description": "Not to be patronised!",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 6210,
+  "inventoryActions": [
+    "Wear",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": false,
+  "name": "Sphinx baby",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

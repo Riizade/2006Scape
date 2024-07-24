@@ -1,0 +1,25 @@
+{
+  "description": "A woolly jester hat.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 6858,
+  "inventoryActions": [
+    null,
+    "Wear",
+    null,
+    null,
+    "Destroy"
+  ],
+  "members": false,
+  "name": "Jester hat",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

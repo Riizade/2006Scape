@@ -1,0 +1,25 @@
+{
+  "description": "It lights your way through the dark places of the earth.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 4539,
+  "inventoryActions": [
+    null,
+    "Extinguish",
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Oil lantern",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 125
+}

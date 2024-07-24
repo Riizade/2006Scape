@@ -1,0 +1,25 @@
+{
+  "description": "Handy if you want to break all your teeth.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 2379,
+  "inventoryActions": [
+    null,
+    "Eat",
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Rock cake",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

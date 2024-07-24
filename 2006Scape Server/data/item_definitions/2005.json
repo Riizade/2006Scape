@@ -1,0 +1,25 @@
+{
+  "description": "Eew, it\u0027s horribly burnt.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 2005,
+  "inventoryActions": [
+    "Empty Bowl",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": false,
+  "name": "Burnt stew",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

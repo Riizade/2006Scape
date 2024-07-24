@@ -1,0 +1,25 @@
+{
+  "description": "This fruit is known as White Pearl. Should taste good.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 4485,
+  "inventoryActions": [
+    null,
+    null,
+    "Eat",
+    null,
+    null
+  ],
+  "members": true,
+  "name": "White pearl",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

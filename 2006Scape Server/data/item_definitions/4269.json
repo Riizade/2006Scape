@@ -1,0 +1,25 @@
+{
+  "description": "A pot of crushed large zombie monkey bones.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 4269,
+  "inventoryActions": [
+    null,
+    "Empty",
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Bonemeal",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

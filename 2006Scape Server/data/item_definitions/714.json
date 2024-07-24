@@ -1,0 +1,25 @@
+{
+  "description": "Notes given to you by Radimus Erkle, it includes a partially completed map.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 714,
+  "inventoryActions": [
+    "Read",
+    "Complete",
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Radimus notes",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

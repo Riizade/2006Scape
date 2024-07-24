@@ -1,0 +1,25 @@
+{
+  "description": "A silvery rod of mithril and silver with a sapphire on the top, it has been enchanted.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 7638,
+  "inventoryActions": [
+    "Look-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Silvthrill rod",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

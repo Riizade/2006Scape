@@ -1,0 +1,25 @@
+{
+  "description": "It\u0027s a bar of \u0027perfect\u0027 gold.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 2365,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "\u0027perfect\u0027 gold bar",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 300
+}

@@ -1,0 +1,25 @@
+{
+  "description": "An highly portable army of skeletal magi.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 7950,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    "Open",
+    null
+  ],
+  "members": true,
+  "name": "Bone seeds",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 30
+}

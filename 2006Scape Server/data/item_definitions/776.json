@@ -1,0 +1,25 @@
+{
+  "description": "These gauntlets empower the bearer whilst making gold.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 776,
+  "inventoryActions": [
+    null,
+    "Wear",
+    null,
+    null,
+    "Destroy"
+  ],
+  "members": true,
+  "name": "Goldsmith gauntlet",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

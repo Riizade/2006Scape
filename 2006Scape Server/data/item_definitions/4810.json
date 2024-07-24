@@ -1,0 +1,25 @@
+{
+  "description": "A broken and useless looking backpack with the moniker,\u0027B.Vahn\u0027 in it.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 4810,
+  "inventoryActions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Ruined backpack",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

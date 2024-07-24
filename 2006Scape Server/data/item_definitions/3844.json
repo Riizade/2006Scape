@@ -1,0 +1,25 @@
+{
+  "description": "The holy book of Guthix.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 3844,
+  "inventoryActions": [
+    null,
+    "Wield",
+    "Preach",
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Book of balance",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 200
+}

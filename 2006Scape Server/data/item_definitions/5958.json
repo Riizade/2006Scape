@@ -1,0 +1,25 @@
+{
+  "description": "1 dose of super strength poison antidote.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 5958,
+  "inventoryActions": [
+    "Drink",
+    null,
+    null,
+    "Empty",
+    null
+  ],
+  "members": true,
+  "name": "Antidote++(1)",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 14
+}

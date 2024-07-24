@@ -1,0 +1,25 @@
+{
+  "description": "This crunchy is in the early stages of preparation.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 2201,
+  "inventoryActions": [
+    "Inspect",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Half baked crunchy",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 2
+}

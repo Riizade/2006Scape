@@ -1,0 +1,25 @@
+{
+  "description": "An empty fishbowl in a net.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 6673,
+  "inventoryActions": [
+    null,
+    "Untangle",
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Fishbowl and net",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 0
+}

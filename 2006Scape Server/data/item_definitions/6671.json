@@ -1,0 +1,25 @@
+{
+  "description": "A fishbowl with a Tiny Greenfish in it.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 6671,
+  "inventoryActions": [
+    "Talk-At",
+    "Play-With",
+    "Feed",
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Fishbowl",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 0
+}

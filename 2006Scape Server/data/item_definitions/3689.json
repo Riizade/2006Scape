@@ -1,0 +1,25 @@
+{
+  "description": "It\u0027s a musical instrument I don\u0027t know how to play.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 3689,
+  "inventoryActions": [
+    "Play",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Lyre",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

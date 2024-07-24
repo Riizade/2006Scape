@@ -1,0 +1,25 @@
+{
+  "description": "A good looking boot, for the right foot. Literally.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 5063,
+  "inventoryActions": [
+    "Wear",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Right boot",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

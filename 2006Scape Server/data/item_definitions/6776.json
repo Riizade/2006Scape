@@ -1,0 +1,25 @@
+{
+  "description": "A pole with three rats on it.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 6776,
+  "inventoryActions": [
+    "Remove-rat",
+    "Wield",
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Rat pole",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

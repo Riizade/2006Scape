@@ -1,0 +1,25 @@
+{
+  "description": "It\u0027s an amulet of cat speak. It makes vague purring noises.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 6544,
+  "inventoryActions": [
+    null,
+    "Wear",
+    "Open",
+    null,
+    "Destroy"
+  ],
+  "members": true,
+  "name": "Catspeak amulet(e)",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

@@ -1,0 +1,25 @@
+{
+  "description": "A waxed sled.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 4084,
+  "inventoryActions": [
+    null,
+    "Ride",
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Sled",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 175
+}

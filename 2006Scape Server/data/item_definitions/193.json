@@ -1,0 +1,25 @@
+{
+  "description": "1 dose of Zamorak Brew.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 193,
+  "inventoryActions": [
+    "Drink",
+    null,
+    null,
+    "Empty",
+    null
+  ],
+  "members": true,
+  "name": "Zamorak brew(1)",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 125
+}

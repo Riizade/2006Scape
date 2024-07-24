@@ -1,0 +1,25 @@
+{
+  "description": "It\u0027s a meat and potato stew with fancy seasoning.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 7479,
+  "inventoryActions": [
+    "Eat",
+    "Smell",
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Spicy stew",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 20
+}

@@ -1,0 +1,25 @@
+{
+  "description": "2 doses of defence potion.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 135,
+  "inventoryActions": [
+    "Drink",
+    null,
+    null,
+    "Empty",
+    null
+  ],
+  "members": true,
+  "name": "Defence potion(2)",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 90
+}

@@ -1,0 +1,25 @@
+{
+  "description": "Some dry wooden sticks.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 1468,
+  "inventoryActions": [
+    "Rub-together",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Dry sticks",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

@@ -1,0 +1,25 @@
+{
+  "description": "Logs cut from a yew tree.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    "Light",
+    null
+  ],
+  "id": 1515,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": false,
+  "name": "Yew logs",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 160
+}

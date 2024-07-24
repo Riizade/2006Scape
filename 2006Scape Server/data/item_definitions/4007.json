@@ -1,0 +1,25 @@
+{
+  "description": "A gold bar invested with a talkative monkey spirit.",
+  "groundActions": [
+    "Listen",
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 4007,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Enchanted bar",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 800
+}

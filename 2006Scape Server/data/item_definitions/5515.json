@@ -1,0 +1,25 @@
+{
+  "description": "A damaged giant-sized pouch used for storing essence.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 5515,
+  "inventoryActions": [
+    "Fill",
+    "Empty",
+    "Check",
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Giant pouch",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1200
+}

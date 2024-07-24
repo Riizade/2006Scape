@@ -1,0 +1,25 @@
+{
+  "description": "A druidic spell given to you freely by the spirit of Filliman Tarlock.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 2968,
+  "inventoryActions": [
+    "Cast",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Druidic spell",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

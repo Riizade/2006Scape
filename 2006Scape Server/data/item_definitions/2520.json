@@ -1,0 +1,25 @@
+{
+  "description": "A brown toy horse.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 2520,
+  "inventoryActions": [
+    "Play-with",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": false,
+  "name": "Toy horsey",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 100
+}

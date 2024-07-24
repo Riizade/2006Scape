@@ -1,0 +1,25 @@
+{
+  "description": "I think I left it on the stove too long.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 2329,
+  "inventoryActions": [
+    "Empty Dish",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": false,
+  "name": "Burnt pie",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

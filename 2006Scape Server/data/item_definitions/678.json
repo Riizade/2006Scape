@@ -1,0 +1,25 @@
+{
+  "description": "This tray contains gold.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 678,
+  "inventoryActions": [
+    null,
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Panning tray",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

@@ -1,0 +1,25 @@
+{
+  "description": "Logs cut from a magic tree.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    "Light",
+    null
+  ],
+  "id": 1513,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Magic logs",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 320
+}

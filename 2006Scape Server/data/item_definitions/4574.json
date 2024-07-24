@@ -1,0 +1,25 @@
+{
+  "description": "These are the base schematics of a dwarven multicannon",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 4574,
+  "inventoryActions": [
+    "Assemble",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Base schematics",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

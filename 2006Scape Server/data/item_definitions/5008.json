@@ -1,0 +1,25 @@
+{
+  "description": "A stone brooch with a symbol on it.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 5008,
+  "inventoryActions": [
+    "Look-at",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Brooch",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

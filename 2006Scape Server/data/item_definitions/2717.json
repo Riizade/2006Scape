@@ -1,0 +1,25 @@
+{
+  "description": "I hope there\u0027s treasure in it.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 2717,
+  "inventoryActions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Casket",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 50
+}

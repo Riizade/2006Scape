@@ -1,0 +1,25 @@
+{
+  "description": "There are 3 potatoes in this sack.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 5424,
+  "inventoryActions": [
+    "Fill",
+    "Remove-one",
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Potatoes(3)",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

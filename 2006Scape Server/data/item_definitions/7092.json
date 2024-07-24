@@ -1,0 +1,25 @@
+{
+  "description": "A bowl of blackened onions.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 7092,
+  "inventoryActions": [
+    "Empty",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Burnt onion",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 5
+}

@@ -1,0 +1,25 @@
+{
+  "description": "A dragonstone amulet with 3 magic charges.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 1710,
+  "inventoryActions": [
+    null,
+    "Wear",
+    null,
+    "Rub",
+    null
+  ],
+  "members": true,
+  "name": "Amulet of glory(3)",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 17625
+}

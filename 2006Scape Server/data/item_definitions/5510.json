@@ -1,0 +1,25 @@
+{
+  "description": "A medium-sized pouch used for storing essence.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 5510,
+  "inventoryActions": [
+    "Fill",
+    "Empty",
+    "Check",
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Medium pouch",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 300
+}

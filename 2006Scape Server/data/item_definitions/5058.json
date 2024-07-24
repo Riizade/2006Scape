@@ -1,0 +1,25 @@
+{
+  "description": "Three sapphires have been crafted onto the hilt.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 5058,
+  "inventoryActions": [
+    "Wield",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Dwarven battleaxe",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

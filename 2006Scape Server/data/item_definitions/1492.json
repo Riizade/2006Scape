@@ -1,0 +1,25 @@
+{
+  "description": "A simple doll with Iban\u0027s likeness.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 1492,
+  "inventoryActions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Doll of iban",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 2
+}

@@ -1,0 +1,25 @@
+{
+  "description": "I need a closer look to identify this.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 213,
+  "inventoryActions": [
+    "Identify",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Herb",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

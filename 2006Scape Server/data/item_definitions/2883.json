@@ -1,0 +1,25 @@
+{
+  "description": "More powerful than a normal bow, useful against large game birds.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 2883,
+  "inventoryActions": [
+    null,
+    "Wield",
+    "Check kills",
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Ogre bow",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 500
+}

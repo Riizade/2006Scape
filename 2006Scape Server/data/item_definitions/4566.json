@@ -1,0 +1,25 @@
+{
+  "description": "Perhaps not the most powerful weapon in RuneScape.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 4566,
+  "inventoryActions": [
+    null,
+    "Wield",
+    "Dance",
+    null,
+    null
+  ],
+  "members": false,
+  "name": "Rubber chicken",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 0
+}

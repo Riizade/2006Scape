@@ -1,0 +1,25 @@
+{
+  "description": "A nice cup of nettle tea.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 7730,
+  "inventoryActions": [
+    null,
+    "Drink",
+    "Empty",
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Cup of tea",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 10
+}

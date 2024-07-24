@@ -1,0 +1,25 @@
+{
+  "description": "It\u0027s just missing a sprinkling of cinnamon.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 7473,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    "Empty",
+    "Destroy"
+  ],
+  "members": true,
+  "name": "Brulee",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

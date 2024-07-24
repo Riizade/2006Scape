@@ -1,0 +1,25 @@
+{
+  "description": "It\u0027s a monkey in your backpack. As you look it pokes you.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 4033,
+  "inventoryActions": [
+    "Poke",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Monkey",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

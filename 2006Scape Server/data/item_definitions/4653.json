@@ -1,0 +1,25 @@
+{
+  "description": "Hot!",
+  "groundActions": [
+    null,
+    null,
+    "Study",
+    null,
+    null
+  ],
+  "id": 4653,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Fire",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 250
+}

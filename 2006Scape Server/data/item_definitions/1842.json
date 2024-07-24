@@ -1,0 +1,25 @@
+{
+  "description": "A mining barrel with Ana in it.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 1842,
+  "inventoryActions": [
+    "Look",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Ana in a barrel",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

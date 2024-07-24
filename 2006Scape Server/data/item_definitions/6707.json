@@ -1,0 +1,25 @@
+{
+  "description": "An amulet of Camel-speak. It makes vague braying noises.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 6707,
+  "inventoryActions": [
+    null,
+    "Wear",
+    "Check-charge",
+    "Rub",
+    null
+  ],
+  "members": true,
+  "name": "Camulet",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

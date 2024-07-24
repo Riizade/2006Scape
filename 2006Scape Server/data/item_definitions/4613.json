@@ -1,0 +1,25 @@
+{
+  "description": "It has a picture of a dragon on it.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 4613,
+  "inventoryActions": [
+    "Spin",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": false,
+  "name": "Spinning plate",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 50
+}

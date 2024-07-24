@@ -1,0 +1,25 @@
+{
+  "description": "It\u0027s full of pigeons.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 424,
+  "inventoryActions": [
+    "Open",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Pigeon cage",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

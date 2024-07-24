@@ -1,0 +1,25 @@
+{
+  "description": "The statue looks like he can be moved.",
+  "groundActions": [
+    null,
+    null,
+    "Observe",
+    "Reset",
+    null
+  ],
+  "id": 6888,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Guardian statue",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

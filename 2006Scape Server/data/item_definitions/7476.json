@@ -1,0 +1,25 @@
+{
+  "description": "A pot of brulee supreme.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 7476,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    "Empty",
+    "Destroy"
+  ],
+  "members": true,
+  "name": "Brulee supreme",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

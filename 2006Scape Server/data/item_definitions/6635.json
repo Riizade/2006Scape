@@ -1,0 +1,25 @@
+{
+  "description": "A Temple Knight Communication Orb. Top Secret!",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 6635,
+  "inventoryActions": [
+    "Scan",
+    "Contact",
+    null,
+    "Playback",
+    null
+  ],
+  "members": true,
+  "name": "Commorb",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

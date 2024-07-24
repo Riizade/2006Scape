@@ -1,0 +1,25 @@
+{
+  "description": "A lantern to aid attacking Harpie bugs.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 7053,
+  "inventoryActions": [
+    null,
+    "Wield",
+    "Extinguish",
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Lit bug lantern",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 130
+}

@@ -1,0 +1,25 @@
+{
+  "description": "For magnifying forces applied to werewolves.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 4177,
+  "inventoryActions": [
+    "Push",
+    "Pull",
+    "Abuse",
+    "Pluck",
+    null
+  ],
+  "members": false,
+  "name": "Wolfbane lever",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

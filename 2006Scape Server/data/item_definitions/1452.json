@@ -1,0 +1,25 @@
+{
+  "description": "A mysterious power emanates from the talisman...",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 1452,
+  "inventoryActions": [
+    null,
+    null,
+    null,
+    "Locate",
+    null
+  ],
+  "members": true,
+  "name": "Chaos talisman",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 4
+}

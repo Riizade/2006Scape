@@ -1,0 +1,25 @@
+{
+  "description": "An empty tray for panning.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 677,
+  "inventoryActions": [
+    null,
+    "Search",
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Panning tray",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

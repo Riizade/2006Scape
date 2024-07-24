@@ -1,0 +1,25 @@
+{
+  "description": "It\u0027s a bird\u0027s nest with a ring in it.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 5074,
+  "inventoryActions": [
+    "Search",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Bird nest",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

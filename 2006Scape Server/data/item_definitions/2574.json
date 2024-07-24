@@ -1,0 +1,25 @@
+{
+  "description": "Used by navigators to find their position in RuneScape.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 2574,
+  "inventoryActions": [
+    "Look through",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Sextant",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 50
+}

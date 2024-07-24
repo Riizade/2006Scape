@@ -1,0 +1,25 @@
+{
+  "description": "The corpse of a woman who died long ago.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 4488,
+  "inventoryActions": [
+    null,
+    null,
+    "Bury",
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Corpse of woman",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 1
+}

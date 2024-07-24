@@ -1,0 +1,25 @@
+{
+  "description": "It can do almost anything!",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 5558,
+  "inventoryActions": [
+    "Build",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Rogue kit",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": true,
+  "team": 0,
+  "value": 50
+}

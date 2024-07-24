@@ -1,0 +1,25 @@
+{
+  "description": "A lit spooky candle.",
+  "groundActions": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "id": 32,
+  "inventoryActions": [
+    "Extinguish",
+    null,
+    null,
+    null,
+    null
+  ],
+  "members": true,
+  "name": "Lit black candle",
+  "noteGraphicId": -1,
+  "noteInfoId": -1,
+  "stackable": false,
+  "team": 0,
+  "value": 3
+}
