@@ -40,16 +40,24 @@ struct FindItems {
     items_path: PathBuf,
     /// the regular expression to match against item names
     /// can be specified multiple times to match against any of the given patterns
-    #[arg(short = 'r', long, visible_alias("pattern"), num_args(0..))]
+    #[arg(short = 'r', long, visible_alias("pattern"), num_args(0..), verbatim_doc_comment)]
     regex_pattern: Vec<String>,
+    /// the path to a JSON file containing an array of item ids
+    #[arg(short = 'i', long, num_args(0..))]
+    ids_json: Vec<PathBuf>,
+    /// the path to a JSON file containing an array of item ids and names as tuples
+    #[arg(short = 'n', long, num_args(0..))]
+    id_name_tuples_json: Vec<PathBuf>,
 }
 
 #[derive(Debug, Clone, ValueEnum)]
 enum PrintFormat {
     /// plain text
     Basic,
-    /// json format
-    Json,
+    /// array of item ids in JSON format
+    JsonId,
+    /// array of item ids and names in JSON format
+    JsonIdNameTuple,
 }
 
 fn main() {
@@ -63,9 +71,9 @@ fn main() {
     };
 
     match result {
-        Ok(_) => println!("done, command executed successfully!"),
+        Ok(_) => log::info!("done, command executed successfully!"),
         Err(e) => {
-            println!("command execution failed:\nerror: {0}\nsource: {1:#?}\nroot cause: {2}\nbacktrace: {3}", e, e.source(), e.root_cause(), e.backtrace());
+            log::error!("command execution failed:\nerror: {0}\nsource: {1:#?}\nroot cause: {2}\nbacktrace: {3}", e, e.source(), e.root_cause(), e.backtrace());
             exit(1);
         }
     }
@@ -75,22 +83,33 @@ fn print_items(format: &PrintFormat, item_search: &FindItems) -> Result<()> {
     let items = fetch_items(item_search)?;
     let mut sorted_items = items.iter().collect_vec();
     sorted_items.sort_by_key(|i| i.id);
-    for item in sorted_items {
-        println!("{}", print_item(format, &item));
-    }
-    Ok(())
-}
 
-fn print_item(format: &PrintFormat, item: &ItemDefinition) -> String {
-    match format {
-        PrintFormat::Basic => format!(
-            "{0} | {1} | {2}",
-            item.id,
-            item.name.as_deref().unwrap_or(""),
-            item.description.as_deref().unwrap_or("")
-        ),
-        PrintFormat::Json => todo!(),
-    }
+    let s = match format {
+        PrintFormat::Basic => sorted_items
+            .iter()
+            .map(|item| {
+                format!(
+                    "{0} | {1} | {2}",
+                    item.id,
+                    item.name.as_deref().unwrap_or(""),
+                    item.description.as_deref().unwrap_or("")
+                )
+            })
+            .collect_vec()
+            .join("\n"),
+        PrintFormat::JsonId => {
+            serde_json::to_string(&sorted_items.iter().map(|item| item.id).collect_vec())?
+        }
+        PrintFormat::JsonIdNameTuple => serde_json::to_string(
+            &sorted_items
+                .iter()
+                .map(|item| (item.id, item.name.as_deref().unwrap_or("unnamed")))
+                .collect_vec(),
+        )?,
+    };
+
+    println!("{s}");
+    Ok(())
 }
 
 fn fetch_items(find_items: &FindItems) -> Result<HashSet<ItemDefinition>> {
@@ -107,6 +126,18 @@ fn fetch_items(find_items: &FindItems) -> Result<HashSet<ItemDefinition>> {
         })
         .collect_vec();
 
+    let mut desired_ids = HashSet::new();
+    for json_path in &find_items.ids_json {
+        let ids: Vec<i32> = serde_json::from_str(&fs::read_to_string(json_path)?)?;
+        desired_ids.extend(ids);
+    }
+
+    for json_path in &find_items.id_name_tuples_json {
+        let tuples: Vec<(i32, String)> = serde_json::from_str(&fs::read_to_string(json_path)?)?;
+        let ids: Vec<i32> = tuples.iter().map(|t| t.0).collect();
+        desired_ids.extend(ids);
+    }
+
     log::info!("searching items...");
     let mut items = HashSet::new();
     let filepaths = std::fs::read_dir(data_dir)?
@@ -117,10 +148,15 @@ fn fetch_items(find_items: &FindItems) -> Result<HashSet<ItemDefinition>> {
         if path.extension().map(|x| x.to_string_lossy().to_string()) == Some("json".to_string()) {
             let definition: ItemDefinition = serde_json::from_str(&fs::read_to_string(path)?)?;
             let name = &definition.name;
+            // match against regex patterns
             for pattern in patterns {
                 if pattern.is_match(name.as_deref().unwrap_or("")) {
                     items.insert(definition.clone());
                 }
+            }
+            // match against ids from id jsons
+            if desired_ids.contains(&definition.id) {
+                items.insert(definition.clone());
             }
         }
         pb.inc(1);
