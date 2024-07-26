@@ -1,4 +1,5 @@
 [
+  [434, "Clay"],
   [436, "Copper ore"],
   [438, "Tin ore"],
   [440, "Iron ore"],
@@ -9,6 +10,7 @@
   [449, "Adamantite ore"],
   [451, "Runite ore"],
   [668, "Blurite ore"],
+  [1761, "Soft clay"],
   [2349, "Bronze bar"],
   [2351, "Iron bar"],
   [2353, "Steel bar"],
